@@ -5,22 +5,22 @@
 const linksData = [
     {
         id: 1,
-        title: "Loja Própria",
+        title: "Loja Própria (Em construção)",
         url: "#",
         iconType: "image",
         iconSource: "assets/logo.png"
     },
     {
         id: 2,
-        title: "Shopee",
-        url: "#",
+        title: "Shopee (Em construção)",
+        url: "https://shopee.com.br/shop/386151326",
         iconType: "fontawesome",
         iconClass: "fa-brands fa-shopify"
     },
     {
         id: 3,
         title: "Encomendas Personalizadas",
-        url: "#",
+        url: "https://wa.me/5511964708138?text=Ol%C3%A1%2C%20tudo%20bem%3F%0AGostaria%20de%20saber%20mais%20sobre%20o%20processo%20de%20cria%C3%A7%C3%A3o%20de%20um%20item%20personalizado!",
         iconType: "fontawesome",
         iconClass: "fa-brands fa-whatsapp"
     }
